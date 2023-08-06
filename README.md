@@ -1,3 +1,1 @@
-## Enunciado
-
-Crea una aplicación para buscar películas
+## Aplicación para buscar películas
